@@ -1,0 +1,2 @@
+create a app using nextjs and tailwindcss can generate notbooks as pdf
+  using ai 
